@@ -1,0 +1,5 @@
+**/node_modules
+**/.eslintcache
+**/.idea
+
+# three-js\@first-try\find-out-what-it-is
