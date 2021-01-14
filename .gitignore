@@ -2,4 +2,8 @@
 **/.eslintcache
 **/.idea
 
+#all 3D models
+**/models3D
+
+
 # three-js\@first-try\find-out-what-it-is
