@@ -15,5 +15,13 @@ try {
 
 
 
-if($type == "file")
+if($type == "file"){
     $message_id = $gap->sendText($chat_id ,$data);
+}
+
+
+if($type == "text")
+    $message_id = $gap->sendText($chat_id ,$data);
+
+
+echo "hi";
