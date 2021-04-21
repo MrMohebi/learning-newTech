@@ -3,6 +3,9 @@
 **/.eslintcache
 **/.idea
 
+# all tokens
+**/tokens.php
+
 #all 3D models
 **/models3D
 
